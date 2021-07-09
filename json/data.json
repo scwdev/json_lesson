@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Aladdin",
+      "release_year": "2019",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91WNnQZdybL._AC_SY679_.jpg"
+    },
+    {
+      "title": "Us",
+      "release_year": "2019",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91jatiUZjtL._AC_SY741_.jpg"
+    },
+    {
+        "title": "High Fidelity",
+        "release_year": "2000",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/High_Fidelity_poster.jpg"
+    },
+    {
+        "title": "Gross Pointe Blank",
+        "release_year": "1997",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/Grosse_Pointe_Blank_poster.jpg"
+    },
+    {
+        "title": "Say Anything",
+        "release_year": "1989",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/Say_Anything.jpg"
+    },
+    {
+        "title": "American Sweethearts",
+        "release_year": "2000",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/Americas_sweethearts_poster.jpg"
+    },
+    {
+        "title": "Serendipedy",
+        "release_year": "2001",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Serendipity_poster.jpg"
+    }
+  ]
